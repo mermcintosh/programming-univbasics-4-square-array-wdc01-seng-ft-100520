@@ -5,10 +5,12 @@
 # end
 # square_array([1,3,5,7])
 
-counter = 0
-array = [1,2,3,4,5]
- 
+
+
+def (array)
+  counter = 0
 while array[counter] do
 	puts array[counter]
 	counter += 1
 end
+end ([1,2,3,4,5])
